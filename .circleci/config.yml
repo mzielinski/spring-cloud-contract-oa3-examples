@@ -5,7 +5,6 @@ jobs:
   build-and-test:
     # https://circleci.com/docs/2.0/executor-types/
     # https://circleci.com/developer/images/image/cimg/openjdk
-    executor: 'docker'
     docker:
       - image: 'cimg/openjdk:17.0'
     # See: https://circleci.com/docs/2.0/configuration-reference/#steps
