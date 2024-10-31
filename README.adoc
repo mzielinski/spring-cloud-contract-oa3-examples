@@ -1,0 +1,23 @@
+= Spring Cloud Contract OpenAPI 3.0 Examples
+
+== What is in the examples
+
+* *Open-API → Single Source of Truth*
+** model + api code
+** contract tests → for producer
+** contract stub → for consumer
+
+== How to build and run
+
+[source,bash]
+----
+./mvnw clean install
+----
+
+or separately
+
+[source,bash]
+----
+./mvnw -f sccoa3-producer/pom.xml clean install
+./mvnw -f sccoa3-consumer/pom.xml clean package
+----
