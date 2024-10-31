@@ -16,3 +16,7 @@ jobs:
       - run:
           name: Test
           command: mvn test
+workflows:
+  build:
+    jobs:
+      - build-and-test
