@@ -14,17 +14,10 @@
     <name>sccoa3-example-producer</name>
     <description>Spring Cloud Contract OpenAPI 3.0 Examples Producer</description>
 
-    <pluginRepositories>
-        <pluginRepository>
-            <id>jitpack.io</id>
-            <url>https://jitpack.io</url>
-        </pluginRepository>
-    </pluginRepositories>
-
     <properties>
         <open-api-generator.version>7.8.0</open-api-generator.version>
         <spring-cloud-contract.version>4.1.4</spring-cloud-contract.version>
-        <spring-cloud-contract-oa3.version>3.1.10.4</spring-cloud-contract-oa3.version>
+        <spring-cloud-contract-oa3.version>4.1.4.1</spring-cloud-contract-oa3.version>
     </properties>
 
     <dependencies>
@@ -95,7 +88,7 @@
                 </configuration>
                 <dependencies>
                     <dependency>
-                        <groupId>com.github.mzielinski</groupId>
+                        <groupId>io.github.mzielinski</groupId>
                         <artifactId>spring-cloud-contract-oa3</artifactId>
                         <version>${spring-cloud-contract-oa3.version}</version>
                     </dependency>
