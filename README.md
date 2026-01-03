@@ -1,6 +1,6 @@
 # Spring Cloud Contract OpenAPI 3.0 Examples
 
-[![CircleCI](https://circleci.com/gh/mzielinski/spring-cloud-contract-oa3-examples.svg?style#svg)](https://circleci.com/gh/mzielinski/spring-cloud-contract-oa3-examples)
+[![CircleCI](https://circleci.com/gh/mzielinski/spring-cloud-contract-oa3-examples.svg?style=svg)](https://circleci.com/gh/mzielinski/spring-cloud-contract-oa3-examples)
 
 ## Main repository: [mzielinski/spring-cloud-contract-oa3](https://github.com/mzielinski/spring-cloud-contract-oa3)
 
