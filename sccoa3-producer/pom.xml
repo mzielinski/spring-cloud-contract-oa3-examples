@@ -16,7 +16,7 @@
 
     <properties>
         <open-api-generator.version>7.10.0</open-api-generator.version>
-        <spring-cloud-contract.version>4.1.4</spring-cloud-contract.version>
+        <spring-cloud-contract.version>4.2.0</spring-cloud-contract.version>
         <spring-cloud-contract-oa3.version>4.1.4.1</spring-cloud-contract-oa3.version>
     </properties>
 
@@ -45,7 +45,7 @@
         <dependency>
             <groupId>com.fasterxml.jackson.datatype</groupId>
             <artifactId>jackson-datatype-jsr310</artifactId>
-            <version>2.13.2</version>
+            <version>2.18.2</version>
         </dependency>
 
         <!-- Test -->
