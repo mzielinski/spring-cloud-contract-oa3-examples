@@ -16,8 +16,8 @@
 
     <properties>
         <open-api-generator.version>7.10.0</open-api-generator.version>
-        <spring-cloud-contract.version>4.3.1</spring-cloud-contract.version>
-        <spring-cloud-contract-oa3.version>4.3.1</spring-cloud-contract-oa3.version>
+        <spring-cloud-contract.version>5.0.1</spring-cloud-contract.version>
+        <spring-cloud-contract-oa3.version>5.0.1.1</spring-cloud-contract-oa3.version>
     </properties>
 
     <dependencies>
