@@ -16,8 +16,8 @@
 
     <properties>
         <open-api-generator.version>7.10.0</open-api-generator.version>
-        <spring-cloud-contract.version>4.2.0</spring-cloud-contract.version>
-        <spring-cloud-contract-oa3.version>4.1.4.1</spring-cloud-contract-oa3.version>
+        <spring-cloud-contract.version>4.3.1</spring-cloud-contract.version>
+        <spring-cloud-contract-oa3.version>4.3.1</spring-cloud-contract-oa3.version>
     </properties>
 
     <dependencies>
@@ -57,11 +57,6 @@
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-contract-verifier</artifactId>
-            <scope>test</scope>
-        </dependency>
-        <dependency>
-            <groupId>org.junit.jupiter</groupId>
-            <artifactId>junit-jupiter-engine</artifactId>
             <scope>test</scope>
         </dependency>
     </dependencies>
