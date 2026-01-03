@@ -15,7 +15,7 @@
     <description>Spring Cloud Contract OpenAPI 3.0 Examples Producer</description>
 
     <properties>
-        <open-api-generator.version>7.8.0</open-api-generator.version>
+        <open-api-generator.version>7.10.0</open-api-generator.version>
         <spring-cloud-contract.version>4.2.0</spring-cloud-contract.version>
         <spring-cloud-contract-oa3.version>4.1.4.1</spring-cloud-contract-oa3.version>
     </properties>
